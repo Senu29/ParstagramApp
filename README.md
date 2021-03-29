@@ -24,6 +24,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Gzm4UwlFPx.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
+Stays Logged in restarts:
+
+<img src='http://g.recordit.co/Mca8UYUvuJ.gif' title='Video Walkthrough Stays Logged In Restarts' width='250' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
